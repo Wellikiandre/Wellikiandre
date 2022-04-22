@@ -79,15 +79,6 @@ Skills: Desenvolvedor | Engenharia de dados | ELT ETL | SQL | Python | Business 
 * 2017-07    Pacote Office completo, Microsft Excel Dashboard e Macros(VBA)
 
 
-import carousel from './carrossel'
-
-const container = document.querySelector('.carousel')
-const elements = document.querySelectorAll('.carousel__item')
-const arrowLeft = document.querySelector('.carousel__button-left')
-const arrowRight = document.querySelector('.carousel__button-right')
-
-carousel({container, elements, arrowLeft, arrowRight})
-
 
 
 
