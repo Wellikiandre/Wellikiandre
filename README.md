@@ -1,5 +1,5 @@
 # Olá, eu sou o Wellikiandre
-# Merito ao Timeline obtida pelo perfil do Téo Calvo 
+#### Merito ao Timeline obtida pelo perfil do Téo Calvo 
 ```mermaid
 
 gantt
@@ -35,16 +35,16 @@ Skills: Desenvolvedor | Engenharia de dados | ELT ETL | SQL | Python | Business 
 </div>
 
 ## Resumo Conhecimentos:
-➙ Backend : Python (Principal), SQL(Principal), Java , JavaScript , C# e PHP 
-➙ Banco de dados : SqlServer, Mysql, PostgreSQL, MongoDB
-➙ Orquestrador de dados ETL | JOB = Talend (SQL e JAVA) , SSIS (C# e SQL)
-➙ Data Viz = Tableau e Power BI (PowerQuery, M e Dax)
-➙ Frontend = HTML, CSS e JavaScript 
-➙ Framework WEB = Django (Python)
-➙ Office : Excel Avançado com macros para dashboard internos
-➙ Controle de Versão : Git e GitHub
-➙ Outros : Padrões de desenvolvimento de projetos, orientação a objeto OO, entrega contínua, MVC , MTV , DDL , DML , BIG DATA, API REST FULL
-Estou estudando Cloud (AWS e AZURE) e inglês , Qlike e Airflow aos meus conhecimentos.
+* ➙ Backend : Python (Principal), SQL(Principal), Java , JavaScript , C# e PHP 
+* ➙ Banco de dados : SqlServer, Mysql, PostgreSQL, MongoDB
+* ➙ Orquestrador de dados ETL | JOB = Talend (SQL e JAVA) , SSIS (C# e SQL)
+* ➙ Data Viz = Tableau e Power BI (PowerQuery, M e Dax)
+* ➙ Frontend = HTML, CSS e JavaScript 
+* ➙ Framework WEB = Django (Python)
+* ➙ Office : Excel Avançado com macros para dashboard internos
+* ➙ Controle de Versão : Git e GitHub
+* ➙ Outros : Padrões de desenvolvimento de projetos, orientação a objeto OO, entrega contínua, MVC , MTV , DDL , DML , BIG DATA, API REST FULL
+* Estou estudando Cloud (AWS e AZURE) e inglês , Qlike e Airflow aos meus conhecimentos.
 
 ## Formação Acadêmica
 
@@ -52,8 +52,7 @@ Estou estudando Cloud (AWS e AZURE) e inglês , Qlike e Airflow aos meus conheci
 
 ## Cursor e Formações
 
-:computer: 2021-05 - 2021-06 BI e Data Warehouse com SQL Server e Power BI
-Alura, Online, BR
+:computer: 2021-06 BI e Data Warehouse com SQL Server e Power BI Alura, Online, BR
 
 
 
