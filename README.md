@@ -54,7 +54,7 @@ Skills: Desenvolvedor | Engenharia de dados | ELT ETL | SQL | Python | Business 
 
 :newspaper_roll: Técnico Eletrônica - Senai (2011 - 2013)
 
-:newspaper_roll: Técnico Informática (2009 - 2011)
+:newspaper_roll: Técnico Informática - CTU (2009 - 2011)
 
 ## Formações (Todas os displomas disponíveis no linkedin)
 
