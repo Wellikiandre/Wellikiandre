@@ -1,5 +1,5 @@
 # Olá, eu sou o Wellikiandre
-#### Merito ao Timeline obtida pelo perfil do Téo Calvo 
+###### Mérito ao Timeline obtida pelo perfil do Téo Calvo 
 ```mermaid
 
 gantt
@@ -55,7 +55,9 @@ Skills: Desenvolvedor | Engenharia de dados | ELT ETL | SQL | Python | Business 
 ## Formações (Todas os displomas disponíveis no linkedin)
 
 :computer: 2021-06 Formação BI e Data Warehouse com SQL Server e Power BI Alura, Online, BR
+
 :computer: 2020-07 Formação SQL MICROSOFT SQL SERVER 2017 Alura, Online, BR
+
 :computer: 2019-08 Formação Machine Learning, ,Inteligência Artificial Coti Informática, Rio de Janeiro, RJ
 
 ## Cursos (Todas os displomas disponíveis no linkedin)
