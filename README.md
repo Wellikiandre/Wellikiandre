@@ -59,23 +59,22 @@ Skills: Desenvolvedor | Engenharia de dados | ELT ETL | SQL | Python | Business 
 :computer: 2019-08 Formação Machine Learning, ,Inteligência Artificial Coti Informática, Rio de Janeiro, RJ
 
 ## Cursos (Todas os displomas disponíveis no linkedin)
-*2022-02		Udemy : PYTHON DJANGO API REST FULL
-*2021-12    Udemy : Business Intelligence Completo do ETL ao Power BI na Prática
-*2021-07    Alura : Report Analysis com Power BI: Gerando relatórios empresariais
-*2021-06    Alura : Consultas Multidimensionais: MDX com SQL Server
-*2021-06    Alura : OLAP com SQL Server: Construção do Data Warehouse
-*2021-05    Alura : Business Intelligence: Inteligência empresarial
-*2021-05    Alura : ETL com Integration Services: Modelo de dados
-*2021-05    Alura : ETL com Integration Services: Transformação de dados
-*2020-07    Alura : ADMINISTRAÇÃO DO MICROSOFT SQL SERVER 2017
-*2020-07    Alura : CONSULTAS AVANÇADAS COM MICROSOFT SQL SERVER 2017
-*2020-07    Alura : MANIPULAÇÃO DE DADOS COM MICROSOFT SQL SERVER 2017
-*2017-07    Especialista em Microsft Excel Dashboard e Macros(VBA)
-*2020-07    Alura: T-SQL COM MICROSOFT SQL SERVER 2017
-*2020-06    Alura: INTRODUÇÃO AO SQL COM MICROSOFT SQL SERVER 2017
-*2020-01    Universidade Oi Educa6 Sigma Yellow Belt + White Belt
-*2019-08    Capital Code : Github Full
-
+* 2022-02		 Udemy : PYTHON DJANGO API REST FULL
+* 2021-12    Udemy : Business Intelligence Completo do ETL ao Power BI na Prática
+* 2021-07    Alura : Report Analysis com Power BI: Gerando relatórios empresariais
+* 2021-06    Alura : Consultas Multidimensionais: MDX com SQL Server
+* 2021-06    Alura : OLAP com SQL Server: Construção do Data Warehouse
+* 2021-05    Alura : Business Intelligence: Inteligência empresarial
+* 2021-05    Alura : ETL com Integration Services: Modelo de dados
+* 2021-05    Alura : ETL com Integration Services: Transformação de dados
+* 2020-07    Alura : ADMINISTRAÇÃO DO MICROSOFT SQL SERVER 2017
+* 2020-07    Alura : CONSULTAS AVANÇADAS COM MICROSOFT SQL SERVER 2017
+* 2020-07    Alura : MANIPULAÇÃO DE DADOS COM MICROSOFT SQL SERVER 2017
+* 2020-07    Alura: T-SQL COM MICROSOFT SQL SERVER 2017
+* 2020-06    Alura: INTRODUÇÃO AO SQL COM MICROSOFT SQL SERVER 2017
+* 2020-01    Universidade Oi Educa 6 Sigma Yellow Belt + White Belt
+* 2019-08    Capital Code : Github Full
+* 2017-07    Pacote Office completo, Microsft Excel Dashboard e Macros(VBA)
 
 
 
