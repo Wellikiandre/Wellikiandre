@@ -7,10 +7,11 @@ dateFormat  YYYY-MM-DD
 title My Timeline
 
 section Carreira
+Exército            :active,, 2009-01-01,2011-04-01
 Esdeva            :active,, 2011-10-01,2012-09-01
-Randon Inplementos            :active,, 2012-09-01,2013-10-01
+Randon Implementos            :active,, 2012-09-01,2013-10-01
 Programa estágio Oi S.A            :active,, 2013-10-01,2014-10-01
-Oi S.A (Percorrendo de Estágiario a Especialista)            :active,, 2014-10-01,2021-09-01
+Oi S.A (Percorrendo todos os cargos de Estágiario até Especialista)            :active,, 2014-10-01,2021-09-01
 Wmbs Consultoria            :active,, 2018-06-01,2022-12-31
 V.tal           :active,, 2021-03-01,2022-12-31
 
