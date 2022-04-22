@@ -50,7 +50,7 @@ Skills: Desenvolvedor | Engenharia de dados | ELT ETL | SQL | Python | Business 
 
 ## Formação Acadêmica (Todas os displomas disponíveis no linkedin)
 
-:newspaper_roll: Graduação em Desenvolvimento de Sistema Web - Vianna Junior UFJF (2018 - 2019)
+:newspaper_roll: Graduação em Desenvolvimento de Sistema Web - Vianna Junior UFJF (2017 - 2019)
 
 ## Formações (Todas os displomas disponíveis no linkedin)
 
