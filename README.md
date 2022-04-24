@@ -37,7 +37,7 @@ Skills: Desenvolvedor | Engenharia de dados | ELT ETL | SQL | Python | Business 
 </div>
 
 ## Resumo Conhecimentos:
-* ➙ Backend : Python (Principal), SQL(Principal), Java , JavaScript , C# e PHP 
+* ➙ Backend : C, C++, SQL, [ JAVA , C# , PHP, JAVASCRIPT] , Python
 * ➙ Banco de dados : SqlServer, Mysql, PostgreSQL, MongoDB
 * ➙ Orquestrador de dados ETL | JOB = Talend (SQL e JAVA) , SSIS (C# e SQL)
 * ➙ Data Viz = Tableau e Power BI (PowerQuery, M e Dax)
