@@ -13,7 +13,8 @@ Randon Implementos            :active,, 2012-09-01,2013-10-01
 Programa estágio Oi S.A            :active,, 2013-10-01,2014-10-01
 Oi S.A (Percorrendo todos os cargos de Estágiario até Especialista)            :active,, 2014-10-01,2021-09-01
 Wmbs Consultoria            :active,, 2018-06-01,2022-12-31
-V.tal           :active,, 2021-03-01,2022-12-31
+V.tal           :active,, 2021-09-01,2022-05-13
+A3DATA           :active,, 2022-03-15,2022-12-31
 
 ```
 
