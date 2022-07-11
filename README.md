@@ -1,5 +1,5 @@
 # Olá, eu sou o Wellikiandre
-###### Mérito ao Timeline obtida pelo perfil do Téo Calvo 
+
 ```mermaid
 
 gantt
@@ -25,6 +25,9 @@ vencedor da Premiação da Maratona de Programação e SQL em parceria com a Mic
 ➙ + de 20 projetos entregues e validados. (Verificar campo projetos no Linkedin).
 [Linkedin (Wellikiandre)](https://www.linkedin.com/in/wellikiandre/).
 
+💼 Resumo Profissional :
+  Sou um profissional dedicado multidisciplinar  que  possui mentalidade e atitude do dono, sempre tento entregar o seu melhor com o conhecimento disponível no momento, sou flexível, auto motivado, penso fora da caixa, autodidata, comunicativo, extremamente curioso e sou apaixonado em aprender coisas novas e a compartilhar conhecimento adquirido para que a evolução seja mútua.
+ Comecei minha carreira como técnico em eletrônica e informática, migrei para programador, desenvolvedor de software, e nos últimos anos venho trabalhando em desenvolvimento de soluções para o ecossistema de dados on-premisse e/ou cloud.
 
 Skills: Desenvolvedor | Engenheiro de dados | Data Analytics | Analista de dados | Business Intelligence BI | Inteligência de negócio | Cientista de dados | AZURE | AWS | ETL ELT | JOB | SQL | JAVA | PYTHON | POWER BI | DJANGO
 
