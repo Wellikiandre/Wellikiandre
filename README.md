@@ -47,14 +47,23 @@ Skills: Desenvolvedor | Engenheiro de dados | Data Analytics | Analista de dados
 
 ## Resumo Conhecimentos:
 ➙ Backend : C, C++, SQL, JAVA , C#, PHP, JavaScript e Python.
+ 
 ➙ Banco de dados ( SQL, NoSQL ): SqlServer, Mysql, MariaDB, PostgreSQL, MongoDB 
+ 
 ➙ Orquestrador de dados ETL | ELT | JOB = Talend ( SQL e JAVA ) , SQL Server Integration Services e Pentaho Data Integration.
+ 
 ➙ Data Viz = Tableau e Power BI (M e DAX ) 
+ 
 ➙ Frontend = HTML, CSS e JavaScript 
+ 
 ➙ Framework Web = Django (Python), Django RestFramework (API usando Python), Laravel e Asp net Core.
+ 
 ➙ Controle de Versão : Git e GitHub
+ 
 ➙ Outros : Docker, Padrões de desenvolvimento de projetos, orientação a objeto OO, entrega continua, MVC , MTV, DDL, DQL, DML, DCL, TCL , BIG DATA, API REST FULL, Modelagem de dados, lógica de programação.
+ 
 ➙ Office : Excel Avançado com macros para dashboard internos.
+ 
 
 ## Formação Acadêmica (Todas os displomas disponíveis no linkedin)
 
