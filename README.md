@@ -20,6 +20,7 @@ A3DATA           :active,, 2022-03-15,2022-12-31
 Olá, sou Graduado em Analise e desenvolvimento de sistema web (Nota máxima Enade 5) e 
 vencedor da Premiação da Maratona de Programação e SQL em parceria com a Microsoft, ainda detenho formação em Business Intelligence (BI), Report Analysis com PowerBI e mais de 18 cursos e certificações na área de tecnologia... já ia esquecendo Técnico em Eletrônica pelo SENAI e Informática pelo CTU-UFJF 😅.
  Atualmente estou estudando Ambiente Cloud AWS para engenharia de dados no Bootcamp da How e Trabalhando com ambiente Cloud AZURE na atual empresa.
+[Me Conheça Mais (Wellikiandre)](https://www.youtube.com/watch?v=VlKNZpf7XxI)
 
 ➙ 8 anos de experiência em criar soluções para TI e no ecossistema de Dados;
 ➙ + de 20 projetos entregues e validados. (Verificar campo projetos no Linkedin).
