@@ -46,18 +46,19 @@ Skills: Desenvolvedor | Engenheiro de dados | Data Analytics | Analista de dados
 </div>
 
 ## Resumo Conhecimentos:
-* ➙ Backend : C, C++, SQL, [ JAVA , C# , PHP, JAVASCRIPT] , Python
-* ➙ Banco de dados : SqlServer, Mysql, PostgreSQL, MongoDB
-* ➙ Orquestrador de dados ETL | JOB = Talend (SQL e JAVA) , SSIS (C# e SQL)
-* ➙ Data Viz = Tableau e Power BI (PowerQuery, M e Dax)
-* ➙ Frontend = HTML, CSS e JavaScript 
-* ➙ Framework WEB = Django (Python)
-* ➙ Office : Excel Avançado com macros para dashboard internos
-* ➙ Controle de Versão : Git e GitHub
-* ➙ Outros : Padrões de desenvolvimento de projetos, orientação a objeto OO, entrega contínua, MVC , MTV , DDL , DML , BIG DATA, API REST FULL
-* Estou estudando Cloud (AWS e AZURE) e inglês , Qlike e Airflow aos meus conhecimentos.
+➙ Backend : C, C++, SQL, JAVA , C#, PHP, JavaScript e Python.
+➙ Banco de dados ( SQL, NoSQL ): SqlServer, Mysql, MariaDB, PostgreSQL, MongoDB 
+➙ Orquestrador de dados ETL | ELT | JOB = Talend ( SQL e JAVA ) , SQL Server Integration Services e Pentaho Data Integration.
+➙ Data Viz = Tableau e Power BI (M e DAX ) 
+➙ Frontend = HTML, CSS e JavaScript 
+➙ Framework Web = Django (Python), Django RestFramework (API usando Python), Laravel e Asp net Core.
+➙ Controle de Versão : Git e GitHub
+➙ Outros : Docker, Padrões de desenvolvimento de projetos, orientação a objeto OO, entrega continua, MVC , MTV, DDL, DQL, DML, DCL, TCL , BIG DATA, API REST FULL, Modelagem de dados, lógica de programação.
+➙ Office : Excel Avançado com macros para dashboard internos.
 
 ## Formação Acadêmica (Todas os displomas disponíveis no linkedin)
+
+:newspaper_roll: Engenharia de dados - How Bootcamp - (2022- Em andamento)
 
 :newspaper_roll: Graduação em Desenvolvimento de Sistema Web - Vianna Junior - UFJF (2017 - 2019)
 
