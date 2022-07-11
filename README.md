@@ -12,17 +12,21 @@ Esdeva            :active,, 2011-10-01,2012-09-01
 Randon Implementos            :active,, 2012-09-01,2013-10-01
 Programa estágio Oi S.A            :active,, 2013-10-01,2014-10-01
 Oi S.A (Percorrendo todos os cargos de Estágiario até Especialista)            :active,, 2014-10-01,2021-09-01
-Wmbs Consultoria            :active,, 2018-06-01,2022-12-31
 V.tal           :active,, 2021-09-01,2022-05-13
 A3DATA           :active,, 2022-03-15,2022-12-31
 
 ```
 
-Sou Graduado em Analise e desenvolvimento de sistema web (Nota máxima Enade 5) e vencedor da Premiação da Maratona de Programação e SQL, ainda detenho formação em Business Intelligence, Report Analysis com PowerBI e mais de 18 cursos e certificações na área de tecnologia.
+Olá, sou Graduado em Analise e desenvolvimento de sistema web (Nota máxima Enade 5) e 
+vencedor da Premiação da Maratona de Programação e SQL em parceria com a Microsoft, ainda detenho formação em Business Intelligence (BI), Report Analysis com PowerBI e mais de 18 cursos e certificações na área de tecnologia... já ia esquecendo Técnico em Eletrônica pelo SENAI e Informática pelo CTU-UFJF 😅.
+ Atualmente estou estudando Ambiente Cloud AWS para engenharia de dados no Bootcamp da How e Trabalhando com ambiente Cloud AZURE na atual empresa.
+
+➙ 8 anos de experiência em criar soluções para TI e no ecossistema de Dados;
+➙ + de 20 projetos entregues e validados. (Verificar campo projetos no Linkedin).
 [Linkedin (Wellikiandre)](https://www.linkedin.com/in/wellikiandre/).
 
 
-Skills: Desenvolvedor | Engenharia de dados | ELT ETL | SQL | Python | Business Intelligence BI | Inteligência de negócio | Data Analytics | Analista de dados | PowerBI | Tableau | Programador | API | Django
+Skills: Desenvolvedor | Engenheiro de dados | Data Analytics | Analista de dados | Business Intelligence BI | Inteligência de negócio | Cientista de dados | AZURE | AWS | ETL ELT | JOB | SQL | JAVA | PYTHON | POWER BI | DJANGO
 
 
 <div> 
