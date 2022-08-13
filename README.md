@@ -17,18 +17,20 @@ A3DATA           :active,, 2022-03-15,2022-12-31
 
 ```
 
-Olá, sou Graduado em Analise e desenvolvimento de sistema web (Nota máxima Enade 5) e 
-vencedor da Premiação da Maratona de Programação e SQL em parceria com a Microsoft, ainda detenho formação em Business Intelligence (BI), Report Analysis com PowerBI e mais de 18 cursos e certificações na área de tecnologia... já ia esquecendo Técnico em Eletrônica pelo SENAI e Informática pelo CTU-UFJF 😅.
- Atualmente estou estudando Ambiente Cloud AWS para engenharia de dados no Bootcamp da How e Trabalhando com ambiente Cloud AZURE na atual empresa.
-[Me Conheça Mais](https://www.youtube.com/watch?v=VlKNZpf7XxI)
+👨‍🏫 Briefing 
+  Graduado em Análise e Desenvolvimento de Sistemas Web pela Universidade Vianna Junior (Conquistando nota máxima no Enade) e vencedor da Premiação da Maratona de Programação em SQL em parceria com a Microsoft, detenho também formação nas áreas de Engenharia de dados , Data Analytics , Business Intelligence (BI), Report Analysis com PowerBI, além de mais de 18 cursos e certificações na área de tecnologia. Possuo ainda Técnico em Eletrônica pelo SENAI e Informática pelo CTU-UFJF 😅.
+   Atualmente estou estudando Cloud AWS para engenharia de dados, promovido pela How Bootcamps e Trabalhando com ambiente Cloud AZURE no projeto atual.
 
-➙ 8 anos de experiência em criar soluções para TI e no ecossistema de Dados;
+➙ 10 anos de experiência em criar soluções para TI e no ecossistema de Dados;
 ➙ + de 20 projetos entregues e validados. (Verificar campo projetos no Linkedin).
 [Linkedin (Wellikiandre)](https://www.linkedin.com/in/wellikiandre/).
 
-💼 Resumo Profissional :
-  Sou um profissional dedicado multidisciplinar  que  possui mentalidade de atitude do dono em suas atividade e entregas, sempre tento entregar o seu melhor com o conhecimento disponível no momento, sou flexível, auto motivado, penso fora da caixa, autodidata, comunicativo, extremamente curioso e sou apaixonado em aprender coisas novas e a compartilhar conhecimento adquirido para que a evolução seja mútua.
- Comecei minha carreira como técnico em eletrônica e informática, migrei para programador, desenvolvedor de software, e nos últimos anos venho trabalhando em desenvolvimento de soluções para o ecossistema de dados on-premisse e/ou cloud.
+Resumo Profissional :
+ 	Amante de tecnologia e compartilhador de conhecimento. Acredito que o compartilhamento de conhecimento empodera pessoas e as incentiva a buscar ainda mais conhecimento através da educação. Minha intenção é contribuir para a construção de uma sociedade justa e solidária.
+ 	Minha carreira acadêmica e profissional nos últimos 10 anos foi dedicada ao mercado de tecnologia aplicada a soluções em negócios. Possuo larga experiência na área de  backend developer e ecossistema de dados (Análise Avançada de Dados, Ciência de Dados e engenharia de dados), aplicando na prática nos últimos anos nas empresas nas quais trabalhei, destacando Esdeva Indústria Gráfica, Randon Implementos, OI Sa, V.tal e A3Data. Até este momento da minha carreira entreguei mais de 20 projetos com soluções que atenderam as mais diversas necessidades.
+ 	Sempre adequo meus estudos e formações às minhas atividades profissionais aplicando o conceito de “estudo sob demanda”. Ao longo da minha jornada, por onde passei até o momento, sou reconhecido como profissional dedicado, multidisciplinar e que busca trazer para sua equipe a mentalidade de atitude de dono em atividades e entregas. Sempre procuro entregar o meu melhor com o conhecimento disponível no momento, sou flexível, auto motivado, penso fora da caixa, autodidata, comunicativo, extremamente curioso e sou apaixonado em aprender coisas novas e compartilhar conhecimento adquirido para que a evolução seja mútua.
+Comecei minha carreira como técnico em eletrônica e informática, migrei para programação, desenvolvimento de software e, nos últimos anos, venho entregando valor com  desenvolvimento de soluções para o ecossistema de dados on-premisse e/ou cloud nas áreas de engenharia de dados, análise de dados e ciência de dados.
+
 
 Skills: Desenvolvedor | Engenheiro de dados | Data Analytics | Analista de dados | Business Intelligence BI | Inteligência de negócio | Cientista de dados | AZURE | AWS | ETL ELT | JOB | SQL | JAVA | PYTHON | POWER BI | DJANGO
 
