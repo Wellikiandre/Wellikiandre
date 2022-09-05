@@ -17,11 +17,12 @@ A3DATA           :active,, 2022-03-15,2022-12-31
 
 ```
 
-## 👨‍🏫 Briefing 
-	Graduado em Análise e Desenvolvimento de Sistemas Web pela Universidade Vianna Junior (Conquistando nota máxima no Enade) e vencedor da Premiação da Maratona de Programação em SQL em parceria com a Microsoft, detenho também formação e cursos nas áreas de Engenharia de dados , Data Analytics e me arrisco um pouco na Ciência de dados. 
-	 Possuo mais de 18 cursos e certificações na área de tecnologia todos estes cursos foram necessários para o famoso "Aprendendo sob demanda", além de ser técnico em Eletrônica pelo SENAI e Informática pelo CTU-UFJF 😅.
-	Atualmente estou estudando Cloud AWS para engenharia de dados, promovido pela How Bootcamps onde estou utilizando muito SPARK, PANDAS , SQL na Cloud AWS utilizando serviços como KINESIS , DATA LAKE - S3 , AWS GLUE , AWS ATHENA , REDSHIFT entre outros.
-	No projeto profissional atual atrelado a A3Data estou utilizando serviços da Cloud AZURE e PowerBI como Data Viz.
+
+## 👨‍🏫 Briefing:
+    Graduado em Análise e Desenvolvimento de Sistemas Web pela Universidade Vianna Junior (Conquistando nota máxima no Enade) e vencedor da Premiação da Maratona de Programação em SQL em parceria com a Microsoft, detenho também formação e cursos nas áreas de Engenharia de dados , Data Analytics e me arrisco um pouco na Ciência de dados. 
+     Possuo mais de 18 cursos e certificações na área de tecnologia todos estes cursos foram necessários para o famoso "Aprendendo sob demanda", além de ser técnico em Eletrônica pelo SENAI e Informática pelo CTU-UFJF 😅.
+     Atualmente estou estudando Cloud AWS para engenharia de dados, promovido pela How Bootcamps onde estou utilizando muito SPARK, PANDAS , SQL na Cloud AWS utilizando -serviços como KINESIS , DATA LAKE - S3 , AWS GLUE , AWS ATHENA , REDSHIFT entre outros.
+     No projeto profissional atual atrelado a A3Data estou utilizando serviços da Cloud AZURE e PowerBI como Data Viz.
 
 ➙ 10 anos de experiência em criar soluções para TI e no ecossistema de Dados;
 ➙ + de 20 projetos entregues e validados. (Verificar campo projetos no Linkedin).
