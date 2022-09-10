@@ -20,10 +20,7 @@ A3DATA           :active,, 2022-03-15,2022-12-31
 
 ## 👨‍🏫 Briefing:
  
-#####   Graduado em Análise e Desenvolvimento de Sistemas Web pela Universidade Vianna Junior (Conquistando nota máxima no Enade) e vencedor da Premiação da Maratona de Programação em SQL em parceria com a Microsoft, detenho também formação e cursos nas áreas de Engenharia de dados , Data Analytics e me arrisco um pouco na Ciência de dados. 
-#####     Possuo mais de 18 cursos e certificações na área de tecnologia todos estes cursos foram necessários para o famoso "Aprendendo sob demanda", além de ser técnico em Eletrônica pelo SENAI e Informática pelo CTU-UFJF 😅.
-#####     Atualmente estou estudando Cloud AWS para engenharia de dados, promovido pela How Bootcamps onde estou utilizando muito SPARK, PANDAS , SQL na Cloud AWS utilizando -serviços como KINESIS , DATA LAKE - S3 , AWS GLUE , AWS ATHENA , REDSHIFT entre outros.
-#####     No projeto profissional atual atrelado a A3Data estou utilizando serviços da Cloud AZURE e PowerBI como Data Viz.
+#####   Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Vianna Junior (Conquistando nota máxima no Enade) e vencedor da Premiação da Maratona de Programação em SQL em parceria com a Microsoft, detenho mais de 18 cursos e certificações na área de tecnologia sendo elas na área do ecossistema de dados onde se completam nas funções coirmã de Engenheira de dados, Analista de dados e Ciência de dados, finalizando em dezembro de 2022 uma formação na Cloud AWS para Engenharia de dados
 
 ➙ 10 anos de experiência em criar soluções para TI e no ecossistema de Dados;
 ➙ + de 20 projetos entregues e validados. (Verificar campo projetos no Linkedin).
@@ -31,10 +28,12 @@ A3DATA           :active,, 2022-03-15,2022-12-31
 
 ## 💼 Resumo Profissional :
 
-##### Amante de tecnologia e compartilhador de conhecimento. Acredito que o compartilhamento de conhecimento empodera pessoas e as incentiva a buscar ainda mais conhecimento através da educação. Minha intenção é contribuir para a construção de uma sociedade justa e solidária.
-##### Minha carreira acadêmica e profissional nos últimos 10 anos foi dedicada ao mercado de tecnologia aplicada a soluções em negócios. Possuo larga experiência na área de  backend developer e ecossistema de dados (Análise Avançada de Dados, Ciência de Dados e engenharia de dados), aplicando na prática nos últimos anos nas empresas nas quais trabalhei, destacando Esdeva Indústria Gráfica, Randon Implementos, OI Sa, V.tal e A3Data. Até este momento da minha carreira entreguei mais de 20 projetos com soluções que atenderam as mais diversas necessidades.
-##### Sempre adequo meus estudos e formações às minhas atividades profissionais aplicando o conceito de “estudo sob demanda”. Ao longo da minha jornada, por onde passei até o momento, sou reconhecido como profissional dedicado, multidisciplinar e que busca trazer para sua equipe a mentalidade de atitude de dono em atividades e entregas. Sempre procuro entregar o meu melhor com o conhecimento disponível no momento, sou flexível, auto motivado, penso fora da caixa, autodidata, comunicativo, extremamente curioso e sou apaixonado em aprender coisas novas e compartilhar conhecimento adquirido para que a evolução seja mútua.
-##### Comecei minha carreira como técnico em eletrônica e informática, migrei para programação, desenvolvimento de software e, nos últimos anos, venho entregando valor com  desenvolvimento de soluções para o ecossistema de dados on-premisse e/ou cloud nas áreas de engenharia de dados, análise de dados e ciência de dados.
+###### Amante de tecnologia e compartilhador de conhecimento, acredito que o compartilhamento de conhecimento empodere pessoas e as incentiva a buscar ainda mais conhecimento através da educação. Minha intenção é contribuir para a construção de uma sociedade justa e solidária.
+
+###### Minha carreira acadêmica e profissional nos últimos 10 anos foi dedicada ao mercado de tecnologia aplicada a soluções em negócios. Possuo larga experiência na área de  backend developer e ecossistema de dados (Análise Avançada de Dados, Ciência de Dados e engenharia de dados), aplicando na prática nos últimos anos nas empresas nas quais trabalhei, destacando Esdeva Indústria Gráfica, Randon Implementos, OI Sa, V.tal e A3Data. 
+
+###### Até este momento da minha carreira entreguei mais de 20 projetos validados para os mais diversos nichos de mercados com soluções que entregam valor no ecossistema de dados em ambientes on-premisse e/ou cloud Azure e/ou AWS.
+
 
 Skills: Desenvolvedor | Engenheiro de dados | Data Analytics | Analista de dados | Business Intelligence BI | Inteligência de negócio | Cientista de dados | AZURE | AWS | ETL ELT | JOB | SQL | JAVA | PYTHON | POWER BI | DJANGO
 
@@ -52,24 +51,21 @@ Skills: Desenvolvedor | Engenheiro de dados | Data Analytics | Analista de dados
 </div>
 
 ## Resumo Conhecimentos:
-➙ Backend : C, C++, SQL, JAVA , C#, PHP, JavaScript e Python.
- 
-➙ Banco de dados ( SQL, NoSQL ): SqlServer, Mysql, MariaDB, PostgreSQL, MongoDB 
- 
-➙ Orquestrador de dados ETL | ELT | JOB = Talend ( SQL e JAVA ) , SQL Server Integration Services e Pentaho Data Integration.
- 
-➙ Data Viz = Tableau e Power BI (M e DAX ) 
- 
-➙ Frontend = HTML, CSS e JavaScript 
- 
-➙ Framework Web = Django (Python), Django RestFramework (API usando Python), Laravel e Asp net Core.
- 
-➙ Controle de Versão : Git e GitHub
- 
-➙ Outros : Docker, Padrões de desenvolvimento de projetos, orientação a objeto OO, entrega continua, MVC , MTV, DDL, DQL, DML, DCL, TCL , BIG DATA, API REST FULL, Modelagem de dados, lógica de programação.
- 
+➙ Cloud Azure e Cloud AWS: Python, SQL, Spark,  Airflow, Ingestão de dados, ETL, ELT , Crawler , Automação , Jenkins , Terraform,  Cloudformation, Azure Devops, Data Factory, Kinesis , Data Lake - S3 , AWS GLUE , AWS ATHENA , REDSHIFT, Banco dados relacional e não relacional, Docker, Kubernetes e API.
+
+➙ Controle de Versão : Git e GitHub.
+
+➙ Backend: C, C++, SQL, JAVA , C# e Python.
+
+➙ Data Viz = Tableau e Power BI (M e DAX ).
+
+➙ Frontend = HTML, CSS e JavaScript.
+
+➙ Desenvolvimento Web e Criação de Api:  Django e, Django RestFramework.
+
+➙ Outros : Talend, SSIS , Pentaho. Padrões de desenvolvimento de projetos, orientação a objeto OO, entrega contínua, MVC , MTV, DDL, DQL, DML, DCL, TCL , BIG DATA, API REST FULL, Modelagem de dados, lógica de programação, Data Warehouse (DW) e Governança de Dados.
+
 ➙ Office : Excel Avançado com macros para dashboard internos.
- 
 
 ## Formação Acadêmica (Todas os displomas disponíveis no linkedin)
 
