@@ -20,7 +20,8 @@ A3DATA           :active,, 2022-03-15,2022-12-31
 
 ## 👨‍🏫 Briefing:
  
-#####   Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Vianna Junior (Conquistando nota máxima no Enade) e vencedor da Premiação da Maratona de Programação em SQL em parceria com a Microsoft, detenho mais de 18 cursos e certificações na área de tecnologia sendo elas na área do ecossistema de dados onde se completam nas funções coirmã de Engenheira de dados, Analista de dados e Ciência de dados, finalizando em dezembro de 2022 uma formação na Cloud AWS para Engenharia de dados
+#####        Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Vianna Junior (nota máxima no Enade)  e vencedor da Premiação da Maratona de Programação em SQL durante graduação na Universidade Vianna Junior parceira da Microsoft, detenho mais de 18 cursos e certificações na área de tecnologia sendo elas na área do ecossistema de dados onde se completam nas funções coirmã de Engenheira de dados, Analista de dados e Ciência de dados, finalizando em dezembro de 2022 uma formação na Cloud AWS para Engenharia de dados.
+
 
 ➙ 10 anos de experiência em criar soluções para TI e no ecossistema de Dados;
 ➙ + de 20 projetos entregues e validados. (Verificar campo projetos no Linkedin).
