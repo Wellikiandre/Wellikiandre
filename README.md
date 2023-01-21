@@ -54,7 +54,7 @@ Gerenciamento de Recursos e Custo | Segurança | Governança de Dados
 
 :newspaper_roll: Engenharia de Dados AWS | Databricks | Apache Airflow | Spark | Python | SQL - How Bootcamp - (2022)
 
-:newspaper_roll: Engenharia de Dados e Biga Data Azure e Databricks (DP-203) - (2022)
+:newspaper_roll: Engenharia de Dados e Big Data Azure e Databricks (DP-203) - (2022)
 
 :newspaper_roll: Graduação em Desenvolvimento de Sistema Web - Vianna Junior - UFJF (2017 - 2019)
 
