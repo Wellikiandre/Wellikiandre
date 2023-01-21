@@ -1,4 +1,4 @@
-# Olá, eu sou o Wellikiandre
+# Olá, eu sou o Wellikiandre [Linkedin](https://www.linkedin.com/in/wellikiandre/) , [Curriculum](https://docs.google.com/document/d/1mX-EtqGDNQxiE8f8kMF0eon6iOelTQTK/edit?usp=sharing&ouid=116609682125162317803&rtpof=true&sd=true).
 
 ```mermaid
 
@@ -13,64 +13,48 @@ Randon Implementos            :active,, 2012-09-01,2013-10-01
 Programa estágio Oi S.A            :active,, 2013-10-01,2014-10-01
 Oi S.A (Percorrendo todos os cargos de Estágiario até Especialista)            :active,, 2014-10-01,2021-09-01
 V.tal           :active,, 2021-09-01,2022-05-13
-A3DATA           :active,, 2022-03-15,2022-12-31
+A3DATA          :active,, 2022-03-15,2022-10-01
+Multilog        :active,, 2022-10-01,2023-06-01
 
 ```
 
 
 ## 👨‍🏫 Briefing:
  
-#####        Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Vianna Junior (nota máxima no Enade)  e vencedor da Premiação da Maratona de Programação em SQL durante graduação na Universidade Vianna Junior parceira da Microsoft, detenho mais de 18 cursos e certificações na área de tecnologia sendo elas na área do ecossistema de dados onde se completam nas funções coirmã de Engenheira de dados, Analista de dados e Ciência de dados, finalizando em dezembro de 2022 uma formação na Cloud AWS para Engenharia de dados.
+   Me considero um amante da tecnologia e compartilhador de conhecimento, acredito que a informação empodera pessoas e as incentiva através da educação a buscar uma vida mais digna, por isso sou mentor voluntário para pessoas que desejam migrar para área de tecnologia assim contribuindo para uma sociedade mais justa e solidária.
+
+   Graduado em Análise e Desenvolvimento de Sistemas na Universidade Vianna Junior parceira Microsoft (Obtendo nota máxima no ENADE "Eleita a melhor Graduação de Minas Gerais e Segunda melhor do Brasil), Técnico em Eletrônica pelo SENAI e Informática pelo CTU.
+
+   👨‍🎓19 certificações e cursos na área de tecnologia, sendo as mais recentes em Engenharia de dados Azure + DataBricks e Engenharia de Dados na AWS. Estas certificações e cursos visaram amparar meu desenvolvimento e capacitação na entrega de mais 20 projetos profissionais dos mais diversos perfis ao longo da carreira.
 
 
 ➙ 10 anos de experiência em criar soluções para TI e no ecossistema de Dados;
 ➙ + de 20 projetos entregues e validados. (Verificar campo projetos no Linkedin).
-[Linkedin (Wellikiandre)](https://www.linkedin.com/in/wellikiandre/).
+
 
 ## 💼 Resumo Profissional :
 
-###### Amante de tecnologia e compartilhador de conhecimento, acredito que o compartilhamento de conhecimento empodere pessoas e as incentiva a buscar ainda mais conhecimento através da educação. Minha intenção é contribuir para a construção de uma sociedade justa e solidária.
+Tenho larga experiência como Engenharia de Dados , Data Analytics, Engenharia de Software e Infra.
 
-###### Minha carreira acadêmica e profissional nos últimos 10 anos foi dedicada ao mercado de tecnologia aplicada a soluções em negócios. Possuo larga experiência na área de  backend developer e ecossistema de dados (Análise Avançada de Dados, Ciência de Dados e engenharia de dados), aplicando na prática nos últimos anos nas empresas nas quais trabalhei, destacando Esdeva Indústria Gráfica, Randon Implementos, OI Sa, V.tal e A3Data. 
+Possuo entregáveis de que já somam milhões de reais em redução de custo em aperfeiçoamento e otimização em arquitetura de dados desde um pipeline até a uma arquitetura completa de dados.
 
-###### Até este momento da minha carreira entreguei mais de 20 projetos validados para os mais diversos nichos de mercados com soluções que entregam valor no ecossistema de dados em ambientes on-premisse e/ou cloud Azure e/ou AWS.
+Apliquei na prática nos últimos 10 anos em empresas como Esdeva Indústria Gráfica(Revista Veja e Jornal Tribuna de Minas), Randon (Mercedes-Benz), Oi SA / V.tal (Telecom, O&M, PCP, Performance e Produção, Gestão de Terceiros, Projetos, NPS, Marketing, Logística, Controladoria e Auditoria), A3Data (Consultoria de implantação de 
+Data Driven, Engenharia de dados ,Inteligência Artificial e ML) e atualmente na Multilog com a democratização dos dados com a implementação do Delta LakeHouse, municiando projetos de ML, Análise Avançada e Inteligência Artificial.
+
+#### Skills de Palavra Chave:
+
+C, C++, SQL, JAVA , C#, Python , SPARK e PySpark.
+DataBricks | Cloud AWS | Cloud Azure | ELT | ETL | Delta Lake |
+Blob Storage | Data Lake | Data LakeHouse | Data Factory | Data Flow | Azure Synapse Studio | Dedicated SQL Pool | Serveless SQL Pool | Apache Spark Pool | Airflow | Crawler | Jenkins | Terraform | Cloudformation | Azure Devops | AWS Synapse | Kinesis | Data Store | Data Lake - S3 | AWS GLUE | AWS ATHENA | REDSHIFT | Docker | Kubernetes | API | Git | GitHub | Power BI (M e DAX) | Talend | SSIS | Orientação a Objeto OO | Entrega contínua | MVC | MTV | DDL | DQL | DML | DCL | TCL
+Gerenciamento de Recursos e Custo | Segurança | Governança de Dados
 
 
-Skills: Desenvolvedor | Engenheiro de dados | Data Analytics | Analista de dados | Business Intelligence BI | Inteligência de negócio | Cientista de dados | AZURE | AWS | ETL ELT | JOB | SQL | JAVA | PYTHON | POWER BI | DJANGO
-
-
-<div> 
-  <a href="https://www.linkedin.com/in/wellikiandre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://linktr.ee/wellikiandre" target="_blank"><img src="https://img.shields.io/badge/LinkTree-FF0000?style=for-the-badge&logo=Linktree&logoColor=white" target="_blank"></a>
-  <a href="https://docs.google.com/document/d/1mX-EtqGDNQxiE8f8kMF0eon6iOelTQTK/edit?usp=sharing&ouid=116609682125162317803&rtpof=true&sd=true" target="_blank"><img src="https://img.shields.io/badge/Curriculum-FF0000?style=for-the-badge&logo=Linktree&logoColor=green" target="_blank"></a>
-</div>
-
-<div>
-  <a href="https://github.com/Wellikiandre">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellikiandre&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wellikiandre&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-## Resumo Conhecimentos:
-➙ Cloud Azure e Cloud AWS: Python, SQL, Spark,  Airflow, Ingestão de dados, ETL, ELT , Crawler , Automação , Jenkins , Terraform,  Cloudformation, Azure Devops, Data Factory, Kinesis , Data Lake - S3 , AWS GLUE , AWS ATHENA , REDSHIFT, Banco dados relacional e não relacional, Docker, Kubernetes e API.
-
-➙ Controle de Versão : Git e GitHub.
-
-➙ Backend: C, C++, SQL, JAVA , C# e Python.
-
-➙ Data Viz = Tableau e Power BI (M e DAX ).
-
-➙ Frontend = HTML, CSS e JavaScript.
-
-➙ Desenvolvimento Web e Criação de Api:  Django e, Django RestFramework.
-
-➙ Outros : Talend, SSIS , Pentaho. Padrões de desenvolvimento de projetos, orientação a objeto OO, entrega contínua, MVC , MTV, DDL, DQL, DML, DCL, TCL , BIG DATA, API REST FULL, Modelagem de dados, lógica de programação, Data Warehouse (DW) e Governança de Dados.
-
-➙ Office : Excel Avançado com macros para dashboard internos.
 
 ## Formação Acadêmica (Todas os displomas disponíveis no linkedin)
 
-:newspaper_roll: Engenharia de dados - How Bootcamp - (2022- Em andamento)
+:newspaper_roll: Engenharia de Dados AWS | Databricks | Apache Airflow | Spark | Python | SQL - How Bootcamp - (2022)
+
+:newspaper_roll: Engenharia de Dados e Biga Data Azure e Databricks (DP-203) - (2022)
 
 :newspaper_roll: Graduação em Desenvolvimento de Sistema Web - Vianna Junior - UFJF (2017 - 2019)
 
