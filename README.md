@@ -1,4 +1,4 @@
-# Olá, eu sou o Wellikiandre [Linkedin](https://www.linkedin.com/in/wellikiandre/) , [Curriculum](https://docs.google.com/document/d/1mX-EtqGDNQxiE8f8kMF0eon6iOelTQTK/edit?usp=sharing&ouid=116609682125162317803&rtpof=true&sd=true).
+# Olá, eu sou o Wellikiandre [Linkedin](https://www.linkedin.com/in/wellikiandre/) , [Curriculum](https://docs.google.com/document/d/1mX-EtqGDNQxiE8f8kMF0eon6iOelTQTK/edit?usp=sharing&ouid=116609682125162317803&rtpof=true&sd=true) , [Projetos Reais descrição](https://www.linkedin.com/in/wellikiandre/details/projects/)
 
 ```mermaid
 
