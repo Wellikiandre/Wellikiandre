@@ -2,7 +2,7 @@
 #### [Meu Linkedin](https://www.linkedin.com/in/wellikiandre/)
 #### [Meu Curriculum](https://docs.google.com/document/d/1mX-EtqGDNQxiE8f8kMF0eon6iOelTQTK/edit?usp=sharing&ouid=116609682125162317803&rtpof=true&sd=true)
 #### [Projetos Reais](https://www.linkedin.com/in/wellikiandre/details/projects/)
-### [Me contate] (https://linktr.ee/wellikiandre)
+### [Me contate](https://linktr.ee/wellikiandre)
 ```mermaid
 
 gantt
