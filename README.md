@@ -25,7 +25,7 @@ Multilog        :active,, 2022-10-01,2023-06-01
 
    Graduado em Análise e Desenvolvimento de Sistemas na Universidade Vianna Junior parceira Microsoft (Obtendo nota máxima no ENADE "Eleita a melhor Graduação de Minas Gerais e Segunda melhor do Brasil), Técnico em Eletrônica pelo SENAI e Informática pelo CTU.
 
-   👨‍🎓19 certificações e cursos na área de tecnologia, sendo as mais recentes em Engenharia de dados Azure + DataBricks e Engenharia de Dados na AWS. Estas certificações e cursos visaram amparar meu desenvolvimento e capacitação na entrega de mais 20 projetos profissionais dos mais diversos perfis ao longo da carreira.
+   👨‍🎓25 certificações e cursos na área de tecnologia, sendo as mais recentes em Engenharia de dados Azure + DataBricks e Engenharia de Dados na AWS. Estas certificações e cursos visaram amparar meu desenvolvimento e capacitação na entrega de mais 20 projetos profissionais dos mais diversos perfis ao longo da carreira.
 
 
 ➙ 10 anos de experiência em criar soluções para TI e no ecossistema de Dados;
@@ -71,7 +71,11 @@ Gerenciamento de Recursos e Custo | Segurança | Governança de Dados
 :computer: 2019-08 Formação Machine Learning, ,Inteligência Artificial Coti Informática, Rio de Janeiro, RJ
 
 ## Cursos (Todas os displomas disponíveis no linkedin)
-* 2022-02		 Udemy : PYTHON DJANGO API REST FULL
+* 2023-08		  BIFPC : Certification Professional Business Intelligence
+* 2023-07    Databricks : Certification Databricks lakehouse platform (v2)
+* 2023-07    Engenharia de Dados Academy : Python para Engenharia de dados
+* 2022-10    Azure Academy: Engenharia de dados e Big Data, Databricks (DP-203)
+* 2022-02		  Udemy : PYTHON DJANGO API REST FULL
 * 2021-12    Udemy : Business Intelligence Completo do ETL ao Power BI na Prática
 * 2021-07    Alura : Report Analysis com Power BI: Gerando relatórios empresariais
 * 2021-06    Alura : Consultas Multidimensionais: MDX com SQL Server
