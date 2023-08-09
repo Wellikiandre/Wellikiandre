@@ -71,9 +71,11 @@ Gerenciamento de Recursos e Custo | Segurança | Governança de Dados
 :computer: 2019-08 Formação Machine Learning, ,Inteligência Artificial Coti Informática, Rio de Janeiro, RJ
 
 ## Cursos (Todas os displomas disponíveis no linkedin)
+
 * 2023-08		  BIFPC : Certification Professional Business Intelligence
 * 2023-07    Databricks : Certification Databricks lakehouse platform (v2)
 * 2023-07    Engenharia de Dados Academy : Python para Engenharia de dados
+* 2023-05    Office IT : ITIL® 4 FoundationITIL® 4 Foundation
 * 2022-10    Azure Academy: Engenharia de dados e Big Data, Databricks (DP-203)
 * 2022-02		  Udemy : PYTHON DJANGO API REST FULL
 * 2021-12    Udemy : Business Intelligence Completo do ETL ao Power BI na Prática
