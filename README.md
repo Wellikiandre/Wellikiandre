@@ -29,7 +29,7 @@ Multilog        :active,, 2022-10-01,2023-06-01
 
 
 ➙ 10 anos de experiência em criar soluções para TI e no ecossistema de Dados;
-➙ + de 20 projetos entregues e validados. (Verificar campo projetos no Linkedin).
+➙ + de 30 projetos entregues e validados. (Verificar campo projetos no Linkedin).
 
 
 ## 💼 Resumo Profissional :
