@@ -72,9 +72,12 @@ Gerenciamento de Recursos e Custo | Segurança | Governança de Dados
 
 ## Cursos (Todas os displomas disponíveis no linkedin)
 
-* 2023-08		  BIFPC : Certification Professional Business Intelligence
+* 2024-01		  Engenharia de Dados Academy : Databricks SQL - From zero to Hero
+* 2023-10		  Engenharia de Dados Academy : Big Data Databricks SQL -Plataforma unificada de dados
 * 2023-07    Databricks : Certification Databricks lakehouse platform (v2)
 * 2023-07    Engenharia de Dados Academy : Python para Engenharia de dados
+* 2023-06		  Engenharia de Dados Academy : Git para time de dados
+* 2023-06		  Engenharia de Dados Academy : SQL para time de dados
 * 2023-05    Office IT : ITIL® 4 FoundationITIL® 4 Foundation
 * 2022-10    Azure Academy: Engenharia de dados e Big Data, Databricks (DP-203)
 * 2022-02		  Udemy : PYTHON DJANGO API REST FULL
