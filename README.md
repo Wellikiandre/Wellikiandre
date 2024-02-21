@@ -40,15 +40,15 @@ A paixão pela busca do conhecimento começou na infância, inspirada pela dedic
 
 🛠️ Key Skills:
 
-• Gestão de Recursos e Custo, Segurança, Governança de Dados, DevOps e DataOps \n
-• Cloud: Azure, DataBricks, AWS \n
-• SQL, JAVA, C#, Python, Spark, PySpark, Spark SQL \n
-• OLAP, OLTP, Data Lakes, Data Lakehouse, Modern Data Warehouse \n
-• Oracle, SQL Server, SAP HANA, MySQL, PostgreSQL, MongoDB, Redshift \n
-• Airbyte, Synapse, Data Factory, Talend, SSIS \n
-• Git, GitHub, Azure DevOps \n
-• CI/CD,Docker, Kubernetes \n
-• Metabase, Power BI, Excel, VBA \n
+<li> • Gestão de Recursos e Custo, Segurança, Governança de Dados, DevOps e DataOps </li>
+<li> • Cloud: Azure, DataBricks, AWS </li>
+<li> • SQL, JAVA, C#, Python, Spark, PySpark, Spark SQl </li>
+<li> • OLAP, OLTP, Data Lakes, Data Lakehouse, Modern Data Warehouse </li>
+<li> • Oracle, SQL Server, SAP HANA, MySQL, PostgreSQL, MongoDB, Redshift </li>
+<li> • Airbyte, Synapse, Data Factory, Talend, SSIS </li>
+<li> • Git, GitHub, Azure DevOps </li>
+<li> • CI/CD,Docker, Kubernetes </li>
+<li> • Metabase, Power BI, Excel, VBA </li>
 
 
 
