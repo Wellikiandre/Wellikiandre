@@ -37,7 +37,8 @@ A paixão pela busca do conhecimento começou na infância, inspirada pela dedic
 <li> Redução de custos na Arquitetura de dados da Multilog. </li> 
 <li> Disponibilização de dados em near real-time para diversas áreas na Multilog. </li> 
 <li> Assistente Inteligente: Automação de processos em monitoramento na arquitetura de dados da Multilog. </li> 
-
+<p></p>
+  
 🛠️ Key Skills:
 
 <li> Gestão de Recursos e Custo, Segurança, Governança de Dados, DevOps e DataOps </li>
