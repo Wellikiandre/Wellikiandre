@@ -32,23 +32,23 @@ A paixão pela busca do conhecimento começou na infância, inspirada pela dedic
 
 🏆 Projetos: (Acesse projetos no linkedin)
 
-• Projetos na Copa do Mundo FIFA, Olimpíadas no Brasil, migrações de sistemas da Oi SA to V.tal.
-• Desenvolvimento de Arquitetura Moderna de dados como solução Big Data na Multilog.
-• Redução de custos na Arquitetura de dados da Multilog.
-• Disponibilização de dados em near real-time para diversas áreas na Multilog.
-• Assistente Inteligente: Automação de processos em monitoramento na arquitetura de dados da Multilog.
+• Projetos na Copa do Mundo FIFA, Olimpíadas no Brasil, migrações de sistemas da Oi SA to V.tal. \n
+• Desenvolvimento de Arquitetura Moderna de dados como solução Big Data na Multilog. \n
+• Redução de custos na Arquitetura de dados da Multilog. \n
+• Disponibilização de dados em near real-time para diversas áreas na Multilog. \n
+• Assistente Inteligente: Automação de processos em monitoramento na arquitetura de dados da Multilog. \n
 
 🛠️ Key Skills:
 
-• Gestão de Recursos e Custo, Segurança, Governança de Dados, DevOps e DataOps
-• Cloud: Azure, DataBricks, AWS
-• SQL, JAVA, C#, Python, Spark, PySpark, Spark SQL
-• OLAP, OLTP, Data Lakes, Data Lakehouse, Modern Data Warehouse
-• Oracle, SQL Server, SAP HANA, MySQL, PostgreSQL, MongoDB, Redshift
-• Airbyte, Synapse, Data Factory, Talend, SSIS
-• Git, GitHub, Azure DevOps
-• CI/CD,Docker, Kubernetes
-• Metabase, Power BI, Excel, VBA
+• Gestão de Recursos e Custo, Segurança, Governança de Dados, DevOps e DataOps \n
+• Cloud: Azure, DataBricks, AWS \n
+• SQL, JAVA, C#, Python, Spark, PySpark, Spark SQL \n
+• OLAP, OLTP, Data Lakes, Data Lakehouse, Modern Data Warehouse \n
+• Oracle, SQL Server, SAP HANA, MySQL, PostgreSQL, MongoDB, Redshift \n
+• Airbyte, Synapse, Data Factory, Talend, SSIS \n
+• Git, GitHub, Azure DevOps \n
+• CI/CD,Docker, Kubernetes \n
+• Metabase, Power BI, Excel, VBA \n
 
 
 
