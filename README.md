@@ -14,39 +14,39 @@ Programa estágio Oi S.A            :active,, 2013-10-01,2014-10-01
 Oi S.A (Percorrendo todos os cargos de Estágiario até Especialista)            :active,, 2014-10-01,2021-09-01
 V.tal           :active,, 2021-09-01,2022-05-13
 A3DATA          :active,, 2022-03-15,2022-10-01
-Multilog        :active,, 2022-10-01,2023-06-01
+Multilog        :active,, 2022-10-01,2024-06-01
 
 ```
 
+🚀 Profissional de alto desempenho com +10 Anos de Experiência e + 30 Projetos em TI
 
-## 👨‍🏫 Briefing:
- 
-   Me considero um amante da tecnologia e compartilhador de conhecimento, acredito que a informação empodera pessoas e as incentiva através da educação a buscar uma vida mais digna, por isso sou mentor voluntário para pessoas que desejam migrar para área de tecnologia assim contribuindo para uma sociedade mais justa e solidária.
+Wellikiandre é um entusiasta de TI autodidata, inspirado pela inovação e de soluções de problemas para negócios, segue a filosofia MAMBA e tem como referência os visionários Elon Musk, Jeff Bezos e Satya Nadella, ele busca incessantemente soluções disruptivas, ele acredita no poder transformador da tecnologia e está sempre em busca de aprimoramento.
 
-   Graduado em Análise e Desenvolvimento de Sistemas na Universidade Vianna Junior parceira Microsoft (Obtendo nota máxima no ENADE "Eleita a melhor Graduação de Minas Gerais e Segunda melhor do Brasil), Técnico em Eletrônica pelo SENAI e Informática pelo CTU.
+Graduado em Análise e Desenvolvimento de Sistemas, com honras máximas no ENADE, pela Universidade Vianna Junior, parceira Microsoft. Possui recomendações de líderes de mercado e certificações em suporte a tomada de decisão, Engenharia de Dados, Azure, DataBricks e AWS.
 
-   👨‍🎓25 certificações e cursos na área de tecnologia, sendo as mais recentes em Engenharia de dados Azure + DataBricks e Engenharia de Dados na AWS. Estas certificações e cursos visaram amparar meu desenvolvimento e capacitação na entrega de mais 20 projetos profissionais dos mais diversos perfis ao longo da carreira.
+Atualmente é o Engenharia e Arquiteto responsável na Multilog, seus 10 anos em TI o fez adquirir uma visão holística e especializada, que se destaca nas áreas de Desenvolvimento de software, Big Data & Analytics, Engenharia de Soluções cloud e on-premisse, infraestrutura, DBA e Liderança de Equipes de alto desempenho. 
 
+Suas habilidades em Learning Agility, Comunicação, Escuta Ativa são complementadas em mais de 30 projetos de sucesso, que sumarizam milhões de reais em redução de custo, aumento de receita e mudança cultural, em empresas como Multilog, A3Data, V.tal, Oi S.A, Randon (Mercedes-Benz).
 
-➙ 10 anos de experiência em criar soluções para TI e no ecossistema de Dados;
-➙ + de 30 projetos entregues e validados. (Verificar campo projetos no Linkedin).
+A paixão pela busca do conhecimento começou na infância, inspirada pela dedicação de uma mãe que gerenciava dois empregos e cuidava sozinha da casa. Acompanhando-a no trabalho, absorveu desde cedo os valores de uma vida repleta de esforço e gratidão. Movido pela educação e pelo compromisso com uma sociedade mais justa, se tornou palestrante e mentor de profissionais.
 
+🏆 Projetos: (Acesse projetos no linkedin)
+• Projetos na Copa do Mundo FIFA, Olimpíadas no Brasil, migrações de sistemas da Oi SA to V.tal.
+• Desenvolvimento de Arquitetura Moderna de dados como solução Big Data na Multilog.
+• Redução de custos na Arquitetura de dados da Multilog.
+• Disponibilização de dados em near real-time para diversas áreas na Multilog.
+• Assistente Inteligente: Automação de processos em monitoramento na arquitetura de dados da Multilog.
 
-## 💼 Resumo Profissional :
-
-Tenho larga experiência como Engenharia de Dados , Data Analytics, Engenharia de Software e Infra.
-
-Possuo entregáveis de que já somam milhões de reais em redução de custo em aperfeiçoamento e otimização em arquitetura de dados desde um pipeline até a uma arquitetura completa de dados.
-
-Apliquei na prática nos últimos 10 anos em empresas como Esdeva Indústria Gráfica(Revista Veja e Jornal Tribuna de Minas), Randon (Mercedes-Benz), Oi SA / V.tal (Telecom, O&M, PCP, Performance e Produção, Gestão de Terceiros, Projetos, NPS, Marketing, Logística, Controladoria e Auditoria), A3Data (Consultoria de implantação de 
-Data Driven, Engenharia de dados ,Inteligência Artificial e ML) e atualmente na Multilog com a democratização dos dados com a implementação do Delta LakeHouse, municiando projetos de ML, Análise Avançada e Inteligência Artificial.
-
-#### Skills de Palavra Chave:
-
-C, C++, SQL, JAVA , C#, Python , SPARK e PySpark.
-DataBricks | Cloud AWS | Cloud Azure | ELT | ETL | Delta Lake |
-Blob Storage | Data Lake | Data LakeHouse | Data Factory | Data Flow | Azure Synapse Studio | Dedicated SQL Pool | Serveless SQL Pool | Apache Spark Pool | Airflow | Crawler | Jenkins | Terraform | Cloudformation | Azure Devops | AWS Synapse | Kinesis | Data Store | Data Lake - S3 | AWS GLUE | AWS ATHENA | REDSHIFT | Docker | Kubernetes | API | Git | GitHub | Power BI (M e DAX) | Talend | SSIS | Orientação a Objeto OO | Entrega contínua | MVC | MTV | DDL | DQL | DML | DCL | TCL
-Gerenciamento de Recursos e Custo | Segurança | Governança de Dados
+🛠️ Key Skills:
+• Gestão de Recursos e Custo, Segurança, Governança de Dados, DevOps e DataOps
+• Cloud: Azure, DataBricks, AWS
+• SQL, JAVA, C#, Python, Spark, PySpark, Spark SQL
+• OLAP, OLTP, Data Lakes, Data Lakehouse, Modern Data Warehouse
+• Oracle, SQL Server, SAP HANA, MySQL, PostgreSQL, MongoDB, Redshift
+• Airbyte, Synapse, Data Factory, Talend, SSIS
+• Git, GitHub, Azure DevOps
+• CI/CD,Docker, Kubernetes
+• Metabase, Power BI, Excel, VBA
 
 
 
@@ -73,6 +73,7 @@ Gerenciamento de Recursos e Custo | Segurança | Governança de Dados
 ## Cursos (Todas os displomas disponíveis no linkedin)
 
 * 2024-01		  Engenharia de Dados Academy : Databricks SQL - From zero to Hero
+* 2024-01		  Conquer : Produtividade e Performance
 * 2023-10		  Engenharia de Dados Academy : Big Data Databricks SQL -Plataforma unificada de dados
 * 2023-07    Databricks : Certification Databricks lakehouse platform (v2)
 * 2023-07    Engenharia de Dados Academy : Python para Engenharia de dados
