@@ -32,23 +32,23 @@ A paixão pela busca do conhecimento começou na infância, inspirada pela dedic
 
 🏆 Projetos: (Acesse projetos no linkedin)
 
-• Projetos na Copa do Mundo FIFA, Olimpíadas no Brasil, migrações de sistemas da Oi SA to V.tal. \n
-• Desenvolvimento de Arquitetura Moderna de dados como solução Big Data na Multilog. \n
-• Redução de custos na Arquitetura de dados da Multilog. \n
-• Disponibilização de dados em near real-time para diversas áreas na Multilog. \n
-• Assistente Inteligente: Automação de processos em monitoramento na arquitetura de dados da Multilog. \n
+<li> Projetos na Copa do Mundo FIFA, Olimpíadas no Brasil, migrações de sistemas da Oi SA to V.tal. </li> 
+<li> Desenvolvimento de Arquitetura Moderna de dados como solução Big Data na Multilog.</li> 
+<li> Redução de custos na Arquitetura de dados da Multilog. </li> 
+<li> Disponibilização de dados em near real-time para diversas áreas na Multilog. </li> 
+<li> Assistente Inteligente: Automação de processos em monitoramento na arquitetura de dados da Multilog. </li> 
 
 🛠️ Key Skills:
 
-<li> • Gestão de Recursos e Custo, Segurança, Governança de Dados, DevOps e DataOps </li>
-<li> • Cloud: Azure, DataBricks, AWS </li>
-<li> • SQL, JAVA, C#, Python, Spark, PySpark, Spark SQl </li>
-<li> • OLAP, OLTP, Data Lakes, Data Lakehouse, Modern Data Warehouse </li>
-<li> • Oracle, SQL Server, SAP HANA, MySQL, PostgreSQL, MongoDB, Redshift </li>
-<li> • Airbyte, Synapse, Data Factory, Talend, SSIS </li>
-<li> • Git, GitHub, Azure DevOps </li>
-<li> • CI/CD,Docker, Kubernetes </li>
-<li> • Metabase, Power BI, Excel, VBA </li>
+<li> Gestão de Recursos e Custo, Segurança, Governança de Dados, DevOps e DataOps </li>
+<li> Cloud: Azure, DataBricks, AWS </li>
+<li> SQL, JAVA, C#, Python, Spark, PySpark, Spark SQl </li>
+<li> OLAP, OLTP, Data Lakes, Data Lakehouse, Modern Data Warehouse </li>
+<li> Oracle, SQL Server, SAP HANA, MySQL, PostgreSQL, MongoDB, Redshift </li>
+<li> Airbyte, Synapse, Data Factory, Talend, SSIS </li>
+<li> Git, GitHub, Azure DevOps </li>
+<li> CI/CD,Docker, Kubernetes </li>
+<li> Metabase, Power BI, Excel, VBA </li>
 
 
 
