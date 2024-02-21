@@ -31,6 +31,7 @@ Suas habilidades em Learning Agility, Comunicação, Escuta Ativa são complemen
 A paixão pela busca do conhecimento começou na infância, inspirada pela dedicação de uma mãe que gerenciava dois empregos e cuidava sozinha da casa. Acompanhando-a no trabalho, absorveu desde cedo os valores de uma vida repleta de esforço e gratidão. Movido pela educação e pelo compromisso com uma sociedade mais justa, se tornou palestrante e mentor de profissionais.
 
 🏆 Projetos: (Acesse projetos no linkedin)
+
 • Projetos na Copa do Mundo FIFA, Olimpíadas no Brasil, migrações de sistemas da Oi SA to V.tal.
 • Desenvolvimento de Arquitetura Moderna de dados como solução Big Data na Multilog.
 • Redução de custos na Arquitetura de dados da Multilog.
@@ -38,6 +39,7 @@ A paixão pela busca do conhecimento começou na infância, inspirada pela dedic
 • Assistente Inteligente: Automação de processos em monitoramento na arquitetura de dados da Multilog.
 
 🛠️ Key Skills:
+
 • Gestão de Recursos e Custo, Segurança, Governança de Dados, DevOps e DataOps
 • Cloud: Azure, DataBricks, AWS
 • SQL, JAVA, C#, Python, Spark, PySpark, Spark SQL
