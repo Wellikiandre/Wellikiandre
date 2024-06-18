@@ -75,16 +75,18 @@ A paixão pela busca do conhecimento começou na infância, inspirada pela dedic
 
 ## Cursos (Todas os displomas disponíveis no linkedin)
 
-* 2024-01		  Engenharia de Dados Academy : Databricks SQL - From zero to Hero
-* 2024-01		  Conquer : Produtividade e Performance
-* 2023-10		  Engenharia de Dados Academy : Big Data Databricks SQL -Plataforma unificada de dados
+* 2024-04    Engenharia de Dados Academy : SPECIALIZATION - Engenharia de dados com Apache Spark
+* 2024-03    Engenharia de Dados Academy : Stack Moderna de Dados com KubernetesStack Moderna de Dados com Kubernetes
+* 2024-01    Engenharia de Dados Academy : Databricks SQL - From zero to Hero
+* 2024-01    Conquer : Produtividade e Performance
+* 2023-10    Engenharia de Dados Academy : Big Data Databricks SQL -Plataforma unificada de dados
 * 2023-07    Databricks : Certification Databricks lakehouse platform (v2)
 * 2023-07    Engenharia de Dados Academy : Python para Engenharia de dados
-* 2023-06		  Engenharia de Dados Academy : Git para time de dados
-* 2023-06		  Engenharia de Dados Academy : SQL para time de dados
+* 2023-06		 Engenharia de Dados Academy : Git para time de dados
+* 2023-06		 Engenharia de Dados Academy : SQL para time de dados
 * 2023-05    Office IT : ITIL® 4 FoundationITIL® 4 Foundation
 * 2022-10    Azure Academy: Engenharia de dados e Big Data, Databricks (DP-203)
-* 2022-02		  Udemy : PYTHON DJANGO API REST FULL
+* 2022-02		 Udemy : PYTHON DJANGO API REST FULL
 * 2021-12    Udemy : Business Intelligence Completo do ETL ao Power BI na Prática
 * 2021-07    Alura : Report Analysis com Power BI: Gerando relatórios empresariais
 * 2021-06    Alura : Consultas Multidimensionais: MDX com SQL Server
