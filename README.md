@@ -14,11 +14,11 @@ Programa estágio Oi S.A            :active,, 2013-10-01,2014-10-01
 Oi S.A (Percorrendo todos os cargos de Estágiario até Especialista)            :active,, 2014-10-01,2021-09-01
 V.tal           :active,, 2021-09-01,2022-05-13
 A3DATA          :active,, 2022-03-15,2022-10-01
-Multilog        :active,, 2022-10-01,2024-06-01
+Multilog        :active,, 2022-10-01,2025-01-01
 
 ```
 
-🚀 Profissional de alto desempenho com +10 Anos de Experiência e + 30 Projetos em TI
+🚀 Profissional de alto desempenho com +11 Anos de Experiência e + 35 Projetos em TI
 
 Wellikiandre é um entusiasta de TI autodidata, inspirado pela inovação e de soluções de problemas para negócios, segue a filosofia MAMBA e tem como referência os visionários Elon Musk, Jeff Bezos e Satya Nadella, ele busca incessantemente soluções disruptivas, ele acredita no poder transformador da tecnologia e está sempre em busca de aprimoramento.
 
