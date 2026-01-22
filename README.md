@@ -60,15 +60,14 @@ Minha trajetória profissional inclui projetos relevantes em empresas como **Mul
 
 ## 📚 Cursos e Certificações (seleção)
 
-* 2026 – IGTI / XP: Arquiteto de Soluções AI Expert  
-* 2025 – IGTI / XP: Bootcamp Engenheiro de Cloud (Azure e AWS)  
-* 2025 – LS Treinamentos: Arquitetura de Dados e Engenharia no Databricks com CI/CD  
-* 2024 – Engenharia de Dados Academy: Especialização em Apache Spark  
-* 2023 – Databricks: Lakehouse Platform Certification  
-* 2022 – Azure Academy: Engenharia de Dados (DP-203)  
-* ITIL® 4 Foundation  
-* Governança de Dados com Databricks Unity Catalog  
-* Machine Learning e Inteligência Artificial  
+* 2026-01 – IGTI / XP: **Arquiteto de Soluções AI Expert**
+* 2025-09 – IGTI / XP: **Bootcamp Engenheiro de Cloud AWS**
+* 2025-04 – IGTI / XP: **Bootcamp Engenheiro de Cloud Azure**
+* 2025-02 – LS Treinamentos: **Azure Big Data | Arquitetura de Dados, Engenharia de Dados e DevOps no Databricks com CI/CD (dev/hml/prd)**
+* 2024-12 – LS Treinamentos: **Governança de Dados com Databricks Unity Catalog**
+* 2024-04 – Engenharia de Dados Academy: **SPECIALIZATION – Engenharia de Dados com Apache Spark**
+* 2024-03 – Engenharia de Dados Academy: **Stack Moderna de Dados com Kubernetes**
+* 2024-01 – Engenharia de Dados Academy: **Databricks SQL – From Zero to Hero**
 
 > 📌 Lista completa disponível no LinkedIn.
 
