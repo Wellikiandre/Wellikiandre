@@ -1,6 +1,6 @@
 # Olá, eu me chamo Wellikiandre Martins
 
-#### [Meu LinkedIn](https://www.linkedin.com/in/wellikiandre/) · [Meu Curriculum](https://docs.google.com/document/d/1mX-EtqGDNQxiE8f8kMF0eon6iOelTQTK/edit) · [Projetos Reais](https://www.linkedin.com/in/wellikiandre/details/projects/) · [Me contate 🚀](https://datacement.com.br)
+#### [Meu LinkedIn](https://www.linkedin.com/in/wellikiandre/) · [Projetos Reais](https://www.linkedin.com/in/wellikiandre/details/projects/) · [Me contate 🚀](https://datacement.com.br)
 
 🚀 **Engenheiro de Dados Especialista e Arquiteto de Soluções (Data & AI)**  
 +15 anos de experiência | +42 projetos reais entregues | Ambientes críticos e de alta escala
@@ -19,6 +19,8 @@ Atualmente sou **Engenheiro e Arquiteto responsável por Data & Analytics na Mul
 - Integração de dados OLTP → Analytics
 - Governança, segurança e otimização de custos em cloud
 
+Além da atuação corporativa, sou **moderador e instrutor na maior comunidade de Engenharia de Dados do Brasil**, a **Engenharia de Dados Academy**, liderada por **Luan Moreno**, contribuindo ativamente na formação técnica, mentoria e evolução profissional de engenheiros de dados em diferentes níveis de maturidade.
+
 Minha trajetória profissional inclui projetos relevantes em empresas como **Multilog, A3Data, V.tal, Oi S.A e Randon (Mercedes-Benz)**, com impacto direto em **redução de custos, aumento de eficiência operacional e mudança cultural orientada a dados**.
 
 ---
@@ -31,8 +33,6 @@ Minha trajetória profissional inclui projetos relevantes em empresas como **Mul
 <li> Redução significativa de custos em plataformas de dados </li>
 <li> Disponibilização de dados em near real-time para áreas estratégicas </li>
 <li> Automação e monitoramento com Assistente Inteligente em arquitetura de dados </li>
-
----
 
 ## 🛠️ Key Skills
 
