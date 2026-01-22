@@ -1,22 +1,5 @@
 # Olá, eu me chamo Wellikiandre Martins.
-#### [Meu Linkedin](https://www.linkedin.com/in/wellikiandre/) , [Meu Curriculum](https://docs.google.com/document/d/1mX-EtqGDNQxiE8f8kMF0eon6iOelTQTK/edit?usp=sharing&ouid=116609682125162317803&rtpof=true&sd=true) , [Projetos Reais](https://www.linkedin.com/in/wellikiandre/details/projects/) , [Me contate 🚀](https://linktr.ee/wellikiandre)
-```mermaid
-
-gantt
-dateFormat  YYYY-MM-DD
-title My Timeline
-
-section Carreira
-Exército            :active,, 2009-01-01,2011-04-01
-Esdeva            :active,, 2011-10-01,2012-09-01
-Randon Implementos            :active,, 2012-09-01,2013-10-01
-Programa estágio Oi S.A            :active,, 2013-10-01,2014-10-01
-Oi S.A (Percorrendo todos os cargos de Estágiario até Especialista)            :active,, 2014-10-01,2021-09-01
-V.tal           :active,, 2021-09-01,2022-05-13
-A3DATA          :active,, 2022-03-15,2022-10-01
-Multilog        :active,, 2022-10-01,2025-01-01
-
-```
+#### [Meu Linkedin](https://www.linkedin.com/in/wellikiandre/) , [Meu Curriculum](https://docs.google.com/document/d/1mX-EtqGDNQxiE8f8kMF0eon6iOelTQTK/edit?usp=sharing&ouid=116609682125162317803&rtpof=true&sd=true) , [Projetos Reais](https://www.linkedin.com/in/wellikiandre/details/projects/) , [Me contate 🚀](https://datacement.com.br)
 
 🚀 Profissional de alto desempenho com +11 Anos de Experiência e + 35 Projetos em TI
 
@@ -55,9 +38,9 @@ A paixão pela busca do conhecimento começou na infância, inspirada pela dedic
 
 ## Formação Acadêmica (Todas os displomas disponíveis no linkedin)
 
-:newspaper_roll: Engenharia de Dados AWS | Databricks | Apache Airflow | Spark | Python | SQL - How Bootcamp - (2022)
+:newspaper_roll: Pós Graduação lato sensu Solution Architecture Expert AI (2025 - 2026)
 
-:newspaper_roll: Engenharia de Dados e Big Data Azure e Databricks (DP-203) - (2022)
+:newspaper_roll: Pós Graduação lato sensu Cloud Computing Azure & AWS (2025 - 2026)
 
 :newspaper_roll: Graduação em Desenvolvimento de Sistema Web - Vianna Junior - UFJF (2017 - 2019)
 
@@ -75,8 +58,14 @@ A paixão pela busca do conhecimento começou na infância, inspirada pela dedic
 
 ## Cursos (Todas os displomas disponíveis no linkedin)
 
+* 2026-01    IGTI - XP : Arquiteto de Soluções AI Expert
+* 2025-09    IGTI - XP : Bootcamp Engenheiro de Cloud AWS
+* 2025-04    IGTI - XP : Bootcamp Engenheiro de Cloud Azure
+* 2025-02    LS Treinamentos : Azure Big Data | Arquitetura de dados, Engenharia de dados e Devops no Databricks e Azure com CI/CD dev/hml/prd.
+* 2025-04    IGTI - XP : Bootcamp Engenheiro de Cloud Azure
+* 2024-12    LS Treinamentos : Governança de dados com Databricks Unity Catalog
 * 2024-04    Engenharia de Dados Academy : SPECIALIZATION - Engenharia de dados com Apache Spark
-* 2024-03    Engenharia de Dados Academy : Stack Moderna de Dados com KubernetesStack Moderna de Dados com Kubernetes
+* 2024-03    Engenharia de Dados Academy : Stack Moderna de Dados com Kubernetes - Stack Moderna de Dados com Kubernetes
 * 2024-01    Engenharia de Dados Academy : Databricks SQL - From zero to Hero
 * 2024-01    Conquer : Produtividade e Performance
 * 2023-10    Engenharia de Dados Academy : Big Data Databricks SQL -Plataforma unificada de dados
