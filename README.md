@@ -1,50 +1,34 @@
-# Olá, eu me chamo Wellikiandre Martins
+#### [LinkedIn](https://www.linkedin.com/in/wellikiandre/) · [Me contate 🚀](https://datacement.com.br)
 
-#### [Meu LinkedIn](https://www.linkedin.com/in/wellikiandre/) · [Projetos Reais](https://www.linkedin.com/in/wellikiandre/details/projects/) · [Me contate 🚀](https://datacement.com.br)
+Wellikiandre Martins é Specialist Data Engineer, Senior Data Architect, Solution Archictect AI, Cloud Engineer (Azure e AWS) e Expert em Databricks, Spark e Kafka, com mais de 15 anos de experiência e 42 projetos entregues em ambientes high-scale e mission-critical.
 
-🚀 **Engenheiro de Dados Especialista e Arquiteto de Soluções (Data & AI)**  
-+15 anos de experiência | +42 projetos reais entregues | Ambientes críticos e de alta escala
+Sua trajetória iniciou em Software Engineering(Backend) evoluindo para Data & AI de acordo com a necessidade do negócio, liderando arquiteturas modernas de dados e implementações de inteligência artificial utilizando técnicas de System Designer e Designer Patterns para acelerar produtos e decisões estratégicas.
 
----
+Possui profundo domínio em Databricks, Apache Spark, Kafka, Azure, AWS, Snowflake, com expertise em Arquiteturas, Multi-agent AI systems (MAS), Microservices Architecture, Event-Driven Architecture (EDA), Agentic Architecture, Lakehouse, Lambda e Kappa.
 
-Sou profissional com atuação sólida em **engenharia de dados, arquitetura de soluções e plataformas analíticas**, especializado em **arquiteturas modernas de dados (Data Lake, Lakehouse, Streaming e Analytics)**, com forte foco em **performance, escalabilidade, governança e eficiência de custos (FinOps)**.
+Wellikiandre já conduziu projetos de impacto significativo em empresas como Multilog, A3Data, V.tal, Oi S.A., Randon, DBC Company e Profarma.
 
-Atuo desde a **concepção arquitetural até a implementação e governança**, sempre alinhando tecnologia à **tomada de decisão orientada a dados e geração de valor para o negócio**.
+Reconhecido como referência técnica e mentor, já capacitou mais de 400 profissionais de Engenharia e Arquitetura de Dados, disseminando boas práticas em Spark, Databricks e Cloud
 
-Graduado em Análise e Desenvolvimento de Sistemas, com **formação contínua em Cloud, Engenharia de Dados e Inteligência Artificial**, possuo certificações e especializações em **Azure, Databricks, AWS, Spark e plataformas analíticas corporativas**.
+Formação:
+* Pós-graduação em Solution Architecture Expert com foco em AI
+* Pós-graduação em Cloud Computing (Azure e AWS)
+* Graduação em Sistemas para Web, com honras máximas no ENADE
+* Certificações Azure, AWS e Databricks
+* Professor e mentor de mais de 400 profissionais em Data Engineering, Apache Spark e Databricks
 
-Atualmente sou **Engenheiro e Arquiteto responsável por Data & Analytics na Multilog**, onde lidero iniciativas estratégicas envolvendo:
-- Arquiteturas Lakehouse (Medallion / Multi-hop)
-- Processamento batch e streaming (near real-time)
-- Integração de dados OLTP → Analytics
-- Governança, segurança e otimização de custos em cloud
+Entregáveis:
+* 42+ projetos em Telecom, Logística, Energia, Saúde, Financeiro, RH, Automotivo, Óleo & Gás
+* Projetos oficiais para Copa do Mundo FIFA e Olimpíadas
+* Maior migração de clientes da América Latina (Velox → Fibra | Oi → V.tal)
+* Plataformas near real-time na Multilog, A3Data → Cyrela e DBC → Profarma
+* Iniciativas de FinOps com reduções de até 91% em storage e 87% em ingestão streaming
+* 44% de redução no tempo de entrega na Multilog
 
-Além da atuação corporativa, sou **moderador e instrutor na maior comunidade de Engenharia de Dados do Brasil**, a **Engenharia de Dados Academy**, liderada por **Luan Moreno**, contribuindo ativamente na formação técnica, mentoria e evolução profissional de engenheiros de dados em diferentes níveis de maturidade.
 
-Minha trajetória profissional inclui projetos relevantes em empresas como **Multilog, A3Data, V.tal, Oi S.A e Randon (Mercedes-Benz)**, com impacto direto em **redução de custos, aumento de eficiência operacional e mudança cultural orientada a dados**.
+Core Tech Stack:
 
----
-
-## 🏆 Projetos (detalhes no LinkedIn)
-
-<li> Projetos de grande escala na Copa do Mundo FIFA e Olimpíadas no Brasil </li>
-<li> Migração de sistemas e clientes da Oi S.A para V.tal (maior migração da América Latina) </li>
-<li> Implementação de Arquitetura Moderna de Dados (Big Data / Lakehouse) na Multilog </li>
-<li> Redução significativa de custos em plataformas de dados </li>
-<li> Disponibilização de dados em near real-time para áreas estratégicas </li>
-<li> Automação e monitoramento com Assistente Inteligente em arquitetura de dados </li>
-
-## 🛠️ Key Skills
-
-<li> Arquitetura de Dados, Governança, Segurança, FinOps, DevOps e DataOps </li>
-<li> Cloud: Azure, Databricks, AWS </li>
-<li> Python, SQL, Spark, PySpark, Spark SQL, Java, C# </li>
-<li> OLTP, OLAP, Data Lake, Data Lakehouse, Modern Data Warehouse </li>
-<li> Oracle, SQL Server, SAP HANA, PostgreSQL, MySQL, MongoDB, Redshift </li>
-<li> Airbyte, Azure Data Factory, Synapse, Talend, SSIS </li>
-<li> Git, GitHub, Azure DevOps </li>
-<li> CI/CD, Docker, Kubernetes </li>
-<li> Power BI, Metabase, Excel Avançado, VBA </li>
+Azure, AWS, Cloud Architecture, Apache Spark, Kafka, PySpark, Databricks, SQL, Python, Scala, Data Lakehouse, Batch Processing, Streaming Processing, ETL, ELT, Data Modeling, FinOps, Lambda Architecture, Kappa Architecture, Distributed Architectures, Service-Oriented Architectures, Serverless Architectures, AI-ready Architectures, Power BI, Tableau, APIs REST, Near Real-Time Analytics, Docker, Kubernetes, Terraform, Git, GitHub, Azure DevOps, CI/CD
 
 ---
 
@@ -55,24 +39,3 @@ Minha trajetória profissional inclui projetos relevantes em empresas como **Mul
 :newspaper_roll: Graduação em **Desenvolvimento de Sistemas Web** – Vianna Junior (UFJF)  
 :newspaper_roll: Técnico em Eletrônica – SENAI  
 :newspaper_roll: Técnico em Informática  
-
----
-
-## 📚 Cursos e Certificações (seleção)
-
-* 2026-01 – IGTI / XP: **Arquiteto de Soluções AI Expert**
-* 2025-09 – IGTI / XP: **Bootcamp Engenheiro de Cloud AWS**
-* 2025-04 – IGTI / XP: **Bootcamp Engenheiro de Cloud Azure**
-* 2025-02 – LS Treinamentos: **Azure Big Data | Arquitetura de Dados, Engenharia de Dados e DevOps no Databricks com CI/CD (dev/hml/prd)**
-* 2024-12 – LS Treinamentos: **Governança de Dados com Databricks Unity Catalog**
-* 2024-04 – Engenharia de Dados Academy: **SPECIALIZATION – Engenharia de Dados com Apache Spark**
-* 2024-03 – Engenharia de Dados Academy: **Stack Moderna de Dados com Kubernetes**
-* 2024-01 – Engenharia de Dados Academy: **Databricks SQL – From Zero to Hero**
-
-> 📌 Lista completa disponível no LinkedIn.
-
----
-
-Sou também **mentor e palestrante**, com atuação no desenvolvimento técnico e estratégico de profissionais de dados, contribuindo para a evolução da maturidade analítica e cultural das organizações.
-
-Se quiser trocar ideias sobre **arquitetura de dados, engenharia, cloud ou projetos estratégicos**, fique à vontade para entrar em contato.
